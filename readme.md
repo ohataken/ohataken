@@ -19,4 +19,4 @@ Ken Ohata (大畠 健)
 * Wantedly
   * [ohataken](https://www.wantedly.com/id/ohataken)
 * はてなブログ
-  * [https://ohataken.hatenablog.com/](https://ohataken.hatenablog.com)
+  * [https://ohataken.hatenablog.com](https://ohataken.hatenablog.com)
