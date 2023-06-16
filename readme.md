@@ -13,7 +13,7 @@ Ken Ohata (大畠 健)
 * Linkedin
   * [ohataken](https://jp.linkedin.com/in/ohataken)
 * Tumblr
-  * [https://ohataken.tumblr.com/](https://ohataken.tumblr.com)
+  * [https://ohataken.tumblr.com](https://ohataken.tumblr.com)
 * Instagram
   * [ohataken](https://www.instagram.com/ohataken)
 * Wantedly
