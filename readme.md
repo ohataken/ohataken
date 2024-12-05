@@ -4,8 +4,8 @@ Ken Ohata (大畠 健)
 
 * GitHub
   * [ohataken](https://github.com/ohataken)
-* Twitter
-  * [ohataken](https://twitter.com/ohataken)
+* X
+  * [ohataken](https://x.com/ohataken)
 * Facebook
   * [ohataken](https://www.facebook.com/ohataken)
 * YouTube
