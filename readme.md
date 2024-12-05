@@ -6,6 +6,8 @@ Ken Ohata (大畠 健)
   * [ohataken](https://github.com/ohataken)
 * X
   * [ohataken](https://x.com/ohataken)
+* Bluesky
+  * [ohataken](https://bsky.app/profile/ohataken.bsky.social)
 * Facebook
   * [ohataken](https://www.facebook.com/ohataken)
 * YouTube
