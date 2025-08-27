@@ -2,6 +2,11 @@
 
 Ken Ohata (大畠 健)
 
+* 経歴やスキルセットについては、以下をご覧ください
+  * [ohataken](https://www.wantedly.com/id/ohataken)
+  * [ohataken](https://jp.linkedin.com/in/ohataken)
+* 主要なリポジトリについては、下記の pinned repositories をご覧ください
+
 * GitHub
   * [ohataken](https://github.com/ohataken)
 * X
