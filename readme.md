@@ -10,8 +10,6 @@ Ken Ohata (大畠 健)
   * [ohataken](https://bsky.app/profile/ohataken.bsky.social)
 * Facebook
   * [ohataken](https://www.facebook.com/ohataken)
-* YouTube
-  * [ohataken](https://www.youtube.com/@ohataken)
 * Linkedin
   * [ohataken](https://jp.linkedin.com/in/ohataken)
 * Tumblr
